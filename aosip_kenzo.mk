@@ -24,7 +24,6 @@ TARGET_GAPPS_ARCH := arm64
 TARGET_BOOT_ANIMATION_RES := 1080
 IS_PHONE := true
 TARGET_MINIMAL_APPS := true
-TARGET_INCLUDE_STOCK_ARCORE := true
 
 # Set those variables here to overwrite the inherited values.
 BOARD_VENDOR := Xiaomi
